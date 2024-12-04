@@ -1,0 +1,2 @@
+{"trial": 0, "output": "Topic 1: encryption clipper chip security key government\nTopic 2: windows software file application files\nTopic 3: baseball games sports league teams\nTopic 4: nasa space shuttle moon orbit\nTopic 5: ftp server access files internet", "error": "num_top_words"}
+{"trial": 1, "output": "Topic 1: encryption security chip government privacy\nTopic 2: graphics software windows file display\nTopic 3: email ftp access internet server\nTopic 4: dos windows application system user\nTopic 5: nntp posting host lines organization", "error": "None"}

@@ -1,0 +1,6 @@
+	Cov_in_datasets/20NG/train_texts.txt_Mean	Cov_in_datasets/20NG/train_texts.txt_Std	Cov_in_datasets/20NG_talk.politics/train_texts.txt_Mean	Cov_in_datasets/20NG_talk.politics/train_texts.txt_Std	Cov_in_datasets/20NG_comp/train_texts.txt_Mean	Cov_in_datasets/20NG_comp/train_texts.txt_Std	Cov_in_datasets/20NG_sci/train_texts.txt_Mean	Cov_in_datasets/20NG_sci/train_texts.txt_Std	Cov_in_datasets/20NG_rec.sport/train_texts.txt_Mean	Cov_in_datasets/20NG_rec.sport/train_texts.txt_Std	Fct_in_datasets/20NG/vocab.txt_Mean	Fct_in_datasets/20NG/vocab.txt_Std
+gpt-4-turbo-2024-04-09_focusing_computer	0.7	0.211	0.628	0.271	0.746	0.18	0.707	0.22	0.836	0.117	0.973	0.019
+gpt-4-turbo-2024-04-09_focusing_sports	0.535	0.01	0.554	0.075	0.688	0.049	0.65	0.05	0.632	0.076	0.96	0.033
+gpt-4-turbo-2024-04-09_focusing_politics	0.66	0.076	0.68	0.134	0.683	0.106	0.721	0.15	0.731	0.135	0.907	0.05
+gpt-4-turbo-2024-04-09_default	0.56	0.052	0.606	0.088	0.698	0.062	0.687	0.057	0.515	0.179	0.96	0.033
+gpt-4-turbo-2024-04-09_focusing_science	0.631	0.186	0.688	0.122	0.566	0.317	0.769	0.099	0.836	0.033	0.947	0.038

@@ -1,0 +1,1006 @@
+Discover latent 5 topics in the following documents
+For each topic, write 5 words extracted from input texts to show its meanings.
+Outputs must always be in the format 'Topic k: word word word word word' and nothing else.
+NOTE: Identify narrow topics.
+###
+video bon jovi taylor swift prince william livin prayer
+jobless claim fall month low
+israeli settler violence group
+update central african republic france boost troop
+scottish independence white paper key fact
+adolescent african hiv program
+seahawks sign cox
+lostprophets ian watkins pleads gui child sex charge
+shop black friday sale pro
+scotland free education independence white paper suggests
+interview oldboy screenwriter mark protosevich
+step ian watkins twitter lostprophets abuse star
+nawaz launch country largest nuclear power project
+nigella lawson cocaine allegation court case
+jump rope macy thanksgiving day parade
+israeli body approves housing unit west bank settlement report
+cut rate spacex poised commercial satellite launch
+detroit brooklyn stuckey drop point piston road win
+kanye west kardashians america
+alec gerry adam man god
+kate middleton prince william taylor swift jon bon jovi
+america college football star jameis winston wrong
+jennifer love hewitt birth baby girl secretly married brian hallisay
+genetic risk alzheimer disease infant brain
+news susan rice urge afghan president karzai sign security deal
+fall icahn role board sale
+watch seth rogen james franco shot shot kanye west
+grand theft auto san andreas window phone arriving month
+president obama proposes rule rein tax exempt group
+brody jenner invited kim kanye wedding defends
+comet december
+movember raise awareness cancer men
+court hears officer blame twin
+fourth bill belichick overtime packer
+duck star
+spike lee oldboy remake find revenge
+lost locker room
+macy early balloon fly parade
+kobe bryant contract extension
+spike lee oldboy remake original
+market eye hit week low euro rally oil demand limit fall
+spike lee oldboy safe audience
+silvio berlusconi timeline political career
+adam lanza obsession
+admits assau three
+pope offer bold mission statement catholic church
+blog aarushi talwar
+defies china fly zone flight
+dentist couple convicted murder teenage daughter servant
+nsa spied porn habit report
+andme fda worried
+waiting aid
+official storm threatens
+consumer report playstation xbox
+men wearhouse offer buy jos bank
+hewlett packard hpq estimate raised capital
+airline add flight holiday thing
+top official central african republic descending chaos
+thai protester besiege govt building call
+treasury proposes dark money guidance
+kobe bryant extension lakers
+nurse stabbed protecting patient police
+champion league chelsea defeat jose mourinho
+snp case independent scotland
+video taylor swift sings prince william jon bon jovi
+karzai head afghan security deal
+south pacific islander loses climate change asylum plea zealand
+grand theft auto controversy game elementary school
+oldboy exclusive movie josh brolin watch year
+france increase force central africa backing
+news kanye west yeezus single revealed
+investor expect hewlett packard earnings tomorrow
+review black nativity stage bound
+nigella head drug charles saatchi
+pacific island man loses appeal stay climate refugee
+funny cool prince william gala
+area store starting black friday deal thanksgiving
+aid south africa grant fight sugar daddy
+update book printed america sell record
+singer key visit typhoon refugee
+wall nene lead wizard lakers
+salmond vow pound blueprint scottish independence
+week report green bay packer
+oldboy hammer time remake
+frozen disney classic lack
+shopping thanksgiving tradition poll
+bbm celkon spice zen android smartphones
+gfk survey reveal december consumer sentiment rise
+sandy hook crime report adam lanza obsessed mass murder
+wind plan plan balloon
+aaron rodgers play week
+dancing star recap winner revealed
+welker
+vote leave dancing fan hot blue
+black nativity
+kanye west build downton abbey style kim kardashian
+belichick talk controversy bronco offense
+global death toll pandemic high
+local jew combine tradition thanksgivukkah
+frozen disney best movie
+google launch chrome extension search voice
+syria conflict geneva peace talk set january
+girl aid
+spike lee oldboy add original thriller
+lindsey vonn plan injury
+benefit restriction migrant work
+report seahawks brandon browner facing year suspension
+stabbing reported tuesday good shepherd medical center
+china bomber flight disputed airspace
+suthep arrest warrant
+bonobo ape tech german food porn
+breast cancer screening lead treatment
+source cano yank meet big gap
+sony corporation adr design head
+bryant happy extension nears return
+german consumer year high
+nawaz kick work nuclear power plant today
+rare baby dinosaur
+deadly stabbing nurse longview
+fda evidence morning pill work woman
+panic net
+bon jovi baby son
+singer admits plot rape fan baby
+google earth image help researcher identify persian gulf
+andray blatche score net beat raptor snap game
+basel chelsea betting preview mourinho men
+smith win dallas cowboy oakland raider
+weatherford pay settle probe
+google moto quad core
+jolla nokia employee launch smartphone
+report dekalb juror survey listed slave occupation choice
+san andreas coming mobile
+kiribati man bid climate change refugee
+liam adam sentenced year prison
+christmas music
+juror form list slave occupation
+endangered bonobo threatened forest loss poaching study
+march macy thanksgiving parade
+report nsa track online porn habit discredit muslim radicalizers
+halo xbox launch microsoft explains
+macy thanksgiving day parade info live stream
+army officer blamed crime twin pleads gui
+thanksgiving black friday number
+pandemic death number flu
+pope francis trickle economics
+happen ison watch
+nfl week pick brady manning romo manning chief
+latvia deadly building collapse
+flyer lecavalier face lightning tampa return
+pope issue manifesto reform papacy
+black nativity review
+taylor swift prince william seal rock jon
+pic bound starring zac efron
+proposed irs rule political nonprofit divide party
+pope francis call capitalism tyranny call leader fight poverty
+prostate cancer
+kim kardashian kanye west baby north family dinner
+nokia land australia
+changing independence question
+western michigan northern illinois preview capsule
+china regional flight
+viral video bound kanye west parody star james franco seth rogen
+winged robot fly jellyfish
+pope theory rich
+rule rein nonprofit political role
+voice search google chrome user google feature
+nokia update camera app image shooting
+wes welker blame bronco punt patriot
+paid nhl billion dollar deal
+seth rogen topless kiss james franco hilarious spoof kim
+mourinho beautiful
+james franco smile bound parody seth
+tech stock report earnings
+thai protester call
+thanksgiving storm threatens holiday travel
+pacific islander fails bid climate change refugee
+immigration
+french drugmaker warns morning pill
+judge decision flawed kiribati climate change case
+revealed nsa planned radical internet
+voice concern china claim airspace disputed island
+bon jovi bill rumor strike
+xbox disc drive break free game
+keith urban cut hair
+seahawks sign perrish cox light potential brandon browner suspension
+concern china announcement air defence zone disputed
+kanye west talk video
+nurse killed wounded stabbing longview texas hospital
+video jack osbourne chat dwts mom talk
+high participate macy thanksgiving day parade
+pakistan general raheel sharif army chief
+san andreas coming mobile device
+kim kardashian kanye bound music video kim responds seth
+microsoft claim google chromebook real laptop
+kobe bryant deal good los angeles lakers
+rare ape face extinction human
+wall street inch higher stren retailer
+christmas surprise moto shipping week
+jersey student march philadelphia thanksgiving day parade
+dwts corbin dance michael
+black friday early start
+aid farmer typhoon haiyan
+black friday best buy xbox deal stock
+nokia lumia coming november
+report inflicted hiv greece bad error
+anti govt protest spread area thailand capital
+facebook selfies
+crown american printing fetch record auction
+afghan president defies security pact add demand
+big drop unemployment claim
+blatche net hold raptor
+improved service hiv testing
+best case lakers
+pau gasol contract extension lakers
+robot fly air jellyfish
+xbox
+lakers post game video team buying mike
+pope francis express trickle economics call
+twitter tuesday meningitis low hpv vaccination rate young
+california based box acquires dloop cloud security
+kanye west laughed hard seth rogen james franco spoof
+durable good order drop shutdown hurt confidence
+nokia lumia launch detail december
+frozen audience animation character
+rivalry
+google desktop google
+price rise consumer confidence dip
+nigella lawson nigella lawson face drug claim ahead assistant fraud
+fed treasury purchase rate low amid taper
+food typhoon hit philippine boost relief effort
+husky finish regular season
+israel advance peace talk help iran deal
+tucson police child abuse imprisonment case
+white house karzai deal troop leaving afghanistan
+nhl preview philadelphia flyer visit tampa bay lightning
+climate change refugee coming country
+holiday traveler spacex launch plan
+maker buy stock
+alec baldwin backlash gay slur
+seahawks combat drug
+israel reach accord funding settlement rift resolved
+france troop central african republic
+review htc nokia offer good choice giant phone
+viking packer preview
+fiery drama star birth death
+karzai refuse extend troop
+talk immigration house
+share icahn group
+kim slam post baby plastic surgery
+nsa collected porn visit data discredit radicalizers
+study morning pill work woman pound
+employee dead critical condition three injured
+thanksgiving travel storm flight delay cancellation
+black nativity forest whitaker angela bassett jennifer hudson share
+nsa spying porn habit radicalizers
+tiffany earnings golden hit point
+nuclear project prime minister performs
+report brandon browner year suspension
+video salah chelsea basel claim win
+pope denounces tyranny capitalism
+thing scotland independence plan
+whitaker bassett black nativity soar
+retailer black friday thanksgiving hour
+report released newtown shooting investigation
+hewlett packard report earnings beat
+notebook mccarthy stand defensive staff
+patriot bronco live tom brady lead overtime win denver instant
+comet ison nov update sun comet century
+lostprophets lead singer ian watkins pleads gui child sex abuse charge
+swine flu death toll time higher thought
+student council raise fund typhoon haiyan relief
+work
+breaking lakers kobe bryant agree year contract extension
+thai lead protester defy government
+america book sell record
+aarushi hemraj murder rajesh nupur life term appeal
+super cyber monday black friday deal wii
+rush hour story today
+retailer prepare black friday uma student
+american keith urban chop hair pic
+suicide bomber kill attack army base
+captive tucson girl charge
+operation criminal criminal
+playing hurt led head injury
+best livin prayer taylor swift prince williams sing
+xbox fau disc drive issue microsoft
+china japan closer war disputed
+week nfl
+bmw model coming family
+chest pain heart attack woman
+thurmond suspended sign cornerback
+killed injured texas surgical center stabbing
+pak speak
+movie review black nativity long time reach goal
+typhoon hit farmer risk double tragedy
+seahorse style caught video
+standard comment cameron move migrant
+woman test negative brca face higher
+google glass order opening people
+extremist detained moscow ministry
+envoy meet spying rift
+taylor swift performs living prayer bon jovi prince williams
+china monitored air zone flight
+microsoft rope pawn star google chromebooks
+jewish leader ready thanksgivukkah
+making progress turnaround plan
+sodium content medicine pose hea risk
+motorola moto listed sim free retailer
+student uma march macy thanksgiving parade
+thailand protest seek
+china air zone raise regional risk analyst
+global aid
+label change needed morning pill
+dancing star open finale journey
+basel chelsea late salah winner
+best hanukkah song adam
+rain snow snarl holiday travel east coast
+frozen room
+comet ison update survive thursday sun
+seattle seahawks brandon browner face suspension
+peyton manning manning cold weather struggle continue
+online juror form listed slave occupation
+pick brady manning matchup
+photo kanye west huge smile hold hand kim
+india shocking murder mystery
+anti drug aid ambassador
+nurse stabbed texas hospital stabbing
+veldheer veldheer thanksgiving
+taylor swift gush meeting prince william gala
+lostprophets star gui baby abuse
+message hanukkah matter faith
+people greece hiv welfare money
+report nsa spied porn habit discredit muslim radical
+prince william taylor swift perform jon bon jovi
+joan river defends alec baldwin fairy
+taper talk fed
+retailer positive spin creep thanksgiving
+white paper scottish public
+frozen disney latest princess debut tonight
+mother nature peyton manning
+lostprophets star baby abuse
+scot independence pound
+magic
+irs limit political activity post tea party rule
+medicine
+migrant benefit top david cameron bid
+box buy better track content
+raider matt mcgloin call play thanksgiving stage
+obama administration proposes rule limit political activity profit
+michelle price celebrity winter gala
+south korea control inside china air zone
+dancing star mirror ball
+rihanna donates philippine relief effort
+nba bryant sign year extension lakers
+seth rogen james franco kimye video worth watching video
+black friday backlash
+homefront movie review
+inch nokia lumia tablet rumored early launch
+judge order sriracha factory cease operation
+nhl video recap tuesday november
+update freezing weather spread storm head east coast
+flying robot inspired jellyfish
+parent buy stake
+report seahawks thurmond facing game suspension
+nokia lumia budget smartphone launched
+msnbc cancel alec baldwin late
+bomber north baghdad kill soldier
+mother admits child abuse
+tucson police parent girl face abuse charge
+kobe bryant sign year extension lakers reported
+nokia lumia sale december
+xbox sell unit hour tie
+pope issue mission statement papacy
+update britain cameron curb welfare benefit migrant
+penner duck hand loss
+sandy hook report adam lanza motive
+calendar thanksgivukkah brings holiday
+law cyber monday online shopping office
+yankee wait cano
+adrian peterson viking week tie packer
+kobe selfish deal limit lakers free agency
+google brings voice search computer running chrome
+kanye west slam hedi slimane yeezus tour rant
+dancing star finale recap amber riley named season champion
+document pope lay vision church
+scottish independence white paper pledge
+longview hospital security reviewed
+second lady donates hiv aid victim
+rogen franco kimye
+rock star invited meet child hospital
+net raptor preview
+james franco seth rogen parody kim kanye bound video
+san andreas coming mobile
+scottish independence scotland
+true message hanukkah
+lakers news kobe bryant pay cut
+dancing star osbourne
+parent teen hpv prevent cancer
+nigella lawson loved drug day decade
+wild thanksgiving turkey
+teardown suggests xbox cost
+reduce linked alzheimer disease
+indonesia australia spying row agree work code
+stock wall street record high
+warren buffett plan market detroit
+housing permit hit year high
+report seahawks thurmond facing game suspension
+seth rogan james franco recreate kanye west bound music video
+news analysis iran nuclear deal positive impact syrian crisis
+lose movember live
+james franco topless seth rogen parody kanye west bound bound
+jellyfish drone stay time second
+packer aaron rodgers thanksgiving day game lion
+japanese flying china air defense zone defiant
+obama tax exempt crackdown easy
+chelsea advance shock
+taper happen
+lostprophets ian watkins admits rape attempt
+nokia announces lumia
+community
+msnbc fire baldwin anti gay slur source
+warning label emergency contraceptive effective woman
+scottish independence scotland independent march
+palestinian israeli find solution palestinian refugee ban
+growing going
+official scott green
+hewlett packard share pop wednesday
+snp document drive debate
+raptor loss net
+hewlett packard hpq
+talwars gui aarushi killing court freak history
+james franco seth rogen parody kanye west
+violence american black friday tradition
+hewlett packard top estimate share hour hpq
+comet century solar wind
+interview chief michelle growth
+stock wall street inch record
+xbox family album
+pope francis denounces money tyranny capitalism
+holiday forecast thanksgiving side shopping
+flacco criticizes raven wildcat offense nbc
+stuckey score point detroit victory brooklyn
+epic thanksgiving black friday shopping weekend guide
+hewlett packard spike sale fall
+princeton university announces vaccination
+liam adam sentenced abuse daughter
+saatchi claim wife nigella lawson head drug
+britain crackdown benefit tourism
+poll holiday shopping brings mix
+peyton manning tom brady matchup hand
+exclusive elizabeth olsen talk spike lee oldboy cast
+brain difference infant genetic risk alzheimer
+keith urban chop hair
+william sings rock roya
+hewlett packard earnings analyst expectation sale beat street
+smith week fantasy outlook
+lecavalier hero tampa
+seahawks brandon browner suspension rule
+tax exempt political group face curb
+kim kardashian kanye west ban plastic surgery jenner
+jim lakers point waiting kobe bryant extension
+jobless claim drop slow
+kanye perform
+yen stren dollar minute euro advance
+msnbc cancel baldwin
+google glass explorer family bit bigger
+dalonte hill resigns
+report seahawks antoine winfield
+alec baldwin msnbc
+people history xbox playstation wii console generation
+basel chelsea betting preview expect blue place
+irs political activity tax exempt group
+sexual regret men woman
+column stand prostate cancer
+aarushi talwar murder nupur rajesh ahead
+local store black friday
+warning fall salmond
+news tucson live team coverage girl held captive
+aid day hiv night stand
+coming blackberry free bbm push android phone
+lindsey vonn injury time sochi
+kim
+local help disney frozen
+nigella lawson cocaine daily decade court
+blackberry ink deal micromax spice bbm
+rihanna team help typhoon haiyan victim
+greek infecting hiv admits report error
+stroke heart attack
+irs push rein tax exempt political group
+rape crime steubenville scandal
+syria opposition peace talk
+voice solidarity palestinian people
+free movement europe free
+kansa police seek suspect death mother three child
+apple air microsoft surface nokia lumia
+morning pill work heavier woman drugmaker
+thanksgivukkah great great
+jewish community celebrating thanksgivukkah
+lakers wizard preview
+hewlett packard company hpq bet earnings
+typhoon haiyan philippine senate monitor relief
+jump island rope appear macy thanksgiving day
+bbm pre installed android smartphones blackberry
+amber riley win dancing star
+exclusive lindsey vonn injury time sochi
+latvian government fall supermarket collapse
+scotland independence work
+apps glass google open mirror api developer
+house price rise rate
+lostprophets ian watkins abuse victim urged forward
+search google computer
+packer eddie lacy left sunday game overtime
+thanksgivukkah rare holiday overlap nyc
+redbox instant hit window phone remain lumia exclusive day
+google map airport train station street view update
+merkel reach deal coalition
+jewish shopping map black friday strategy early
+duck star preview injury
+talk syria civil war january
+typhoon haiyan victim
+grand theft auto san andreas coming mobile device
+jason week fantasy outlook
+china latest threat boost japan
+watch james franco seth rogen parody kimye bound
+mourinho time blue brave
+newtown shooting detail released
+china reaction flight adiz
+moto launch early contract
+correction greek hiv government benefit
+latest sport news press
+minute fed plan coming month
+irs start limit nonprofit group politics
+tom brady performance national stage
+timeline aarushi hemraj murder case
+duck playing future
+kim kardashian kanye west film wedding sell highest
+kim kanye city nyc photo
+nokia corporation adr nyse release lumia
+campaign rule proposed tax exempt nonprofit
+breaking news morning pill work woman pound
+seth rogen james franco top kim kanye bound gif
+syria regime ahead talk
+rock singer trial child sex abuse
+jennifer love hewitt birth baby girl secretly list
+winter storm warning summer county
+amazing ice circle appears river
+killed baghdad attack
+thai protester street
+fun day raise money typhoon victim
+social welfare group
+kim kardashian turn nyc personal
+letta seek post berlusconi italian majority confidence vote
+nokia lumia arrives december
+microsoft xbox learning
+grand theft auto san andreas coming mobile device updated
+patriot stun bronco big rally win
+spacex cleared thanksgiving black friday attempt
+autonomy second
+kanye west reportedly banned kim kardashian
+monitored bomber flight airspace zone china
+amber riley win dancing title
+kanye west face tough talk latest radio watch
+video tiny jellyfish fly
+tucson police girl held captive year
+thanksgiving travel rain snow threaten east coast
+black friday iphone deal cyber monday sale review
+challenge china claim
+champion league chelsea progress knockout phase despite loss basel
+microsoft latest scroogled chromebook
+comet ison
+rape fan baby admits rocker
+jennifer love hewitt birth baby girl marries brian hallisay
+soccer injured chelsea loss
+men wearhouse working talk jos bank
+german gfk confidence confirms growth outlook
+jason statham homefront
+meet general raheel sharif
+syria peace conference set january
+prince william sings taylor swift jon bon jovi charity event watch
+black nativity
+hewlett packard beat year view
+kanye west hoping release album summer
+performance grade flynn creates spark
+lakers build contender kobe
+latvia prime minister dombrovskis resigns deadly riga supermarket
+shopping thanksgiving day family time
+minute cbs chief draw wake benghazi
+black nativity good christmas movie
+oxytocin hormone released brain bond couple
+niu move poll
+nawaz sharif launched power project
+local resident march thanksgiving day parade
+unlocked motorola moto released start
+newtown massacre report
+scottish independence white paper pledge save
+mother three child dead kansa
+nhl player concussion
+star whitney
+mach shock wave power tycho supernova remnant
+written sylvester stallone
+negative brca test lower cancer risk
+restriction proposed tax exempt group political activity
+daughter asks germany help free mother
+thailand course post trade october
+defies free movement call settlement
+dancing star watch winner
+bbm updated support
+mac pro cool raise
+patriot wes return business meeting
+judge rule investor sue meg whitman autonomy
+hewlett packard ceo meg whitman ordered defend security class action
+director point botched movie homefront
+nokia launch ram lumia
+smith remark woodson
+regional hiv aid hand free gift londoner
+lara logan leave absence botched benghazi report
+aaron rodgers practice playing packer fantasy
+nurse gail sandidge killed protecting patient
+newtown shooter obsessed report
+seth rogen win praise kanye kim video spoof
+white paper detail plan scotland
+san andreas coming mobile device december
+net kobe deal bad business
+basel chelsea live
+kanye yeezus pop shop cash
+nfl seattle game ban test
+alec baldwin msnbc officially
+dancing star final night review
+macy thanksgiving day parade
+nation step aid effort
+facebook hot mom stir controversy
+star gameday anaheim
+nokia officially unveils lumia
+seahorse predator
+international space station thanksgiving dinner
+claiming half greek hiv infection inflicted
+james free agent rumor heat star pau gasol top
+buy carl icahn
+obama move attempt critic
+putin kiss vatican
+moto release place december
+alicia key head philippine visit typhoon victim
+david cameron target migrant benefit tourism
+google update youtube commenting system combat spam
+hanukkah jewish ure
+ian watkins pleads gui child sex offence
+wmu close season loss niu
+kanye west stage picture
+niu pass fresno bcs ohio
+joe flacco wildcat raven high school offense
+daily deal
+christmas musical black nativity hit note big screen
+minute reporter lara logan leave benghazi report
+seek suspect death parson woman child
+scottish white paper view
+turn happy thanksgivukkah
+kanye west bound drop nike adidas video
+welker return practice hope play despite concussion
+hewitt announces birth marriage
+kim sign mom
+curiosity resume science analysis age issue
+china clash beijing adiz
+lakers wizard john wall time time
+kristen bell princess video
+defend japan china
+voice command work
+jobless claim fall
+kim kardashian kanye west york
+blu life pro lay claim thinnest android phone inch display
+kim kardashian ruin music video parody
+macy thanksgiving day parade map start time live stream
+kanye
+wes welker blame turnover
+resident house aarushi killed
+ivitamin delay hiv progression led study find
+best black friday apps
+seahawks thurmond suspended game
+ison
+japanese
+letter fda order andme sale
+paul pierce brooklyn net making loss piston
+berlusconi appeal expulsion vote
+xbox console selling better
+tough travel forecast storm move
+farmer risk double tragedy post
+china air zone rule
+nokia lumia lumia official lumia
+nokia lumia spec
+bmw early order bmw sell
+top low emission company car
+matt flynn basketball top week
+black friday
+basle chelsea match report
+iraq twin blast kill
+gerry adam brother sentenced today sexual abuse
+spacex launch improved falcon rocket
+xbox news price cut expected analyst claim
+top black friday tech deal
+woman heart attack symptom
+ryan joe flacco talk
+alec baldwin msnbc
+military aircraft defies china defence zone fly disputed east
+husky host bronco senior day tuesday
+stadium pick brady manning
+aid death rise warns
+redbox instant window phone lumia device
+israeli defense force kill palestinian planning terrorist attack
+hilarious james franco seth rogen recreate kanye west bound video
+raider expect mike jenkins active cowboy
+report year ago claim
+pakistan launched country largest nuclear power project
+goldman sachs group coverage burger king worldwide
+mike label lara logan hero benghazi
+thai opposition hold fourth day
+newtown police response
+thanksgivukkah
+conservative group worried latest campaign finance
+thurmond suspended
+britain risk nasty country image
+remains hiv aid
+attitude help hpv shot
+niu focus finale bcs
+refugee group help
+winter storm moving east bringing freezing rain sleet
+court theory cbi
+blatche score net beat raptor
+bon jovi
+japanese airline china air rule
+swearing xbox live user banned profanity
+basel chelsea free uefa champion league pick preview
+nawaz sharif nuclear
+black nativity jennifer hudson musical lift spirit
+talwar trial investigation lynch medium senior
+afghan agree afghan security deal
+scottish government lay plan independence
+champion league chelsea defeat jose mourinho
+grand theft auto maker pay icahn stock buyback
+german coalition permit
+jolla smartphone launched country
+scottish independence white paper detail revealed
+future position strong europe data fed outlook
+james franco seth rogen kanye west bound epic
+update men wearhouse turn table bid jos bank
+nba kobe confident lakers money free agent
+scotland unveils independence blueprint
+report morning pill ineffective woman
+adrian peterson peterson active viking
+shopping
+top army general
+blue international creates stem cell education public
+life term talwar couple killing aarushi hemraj
+grand theft auto san andreas mobile coming december
+press conference interview cast director homefront
+glee amber riley win dancing star watch final performance
+peyton manning day fantasy owner patriot
+court told ure nigella marriage charles saatchi
+microsoft latest scroogled pawn star rip google
+area black friday shopping
+peyton manning forecast low wind
+morning pill ineffective american woman
+tom warren buffett detroit
+wes welker bringing bronco return england
+buy nokia lumia window tablet power keyboard
+financial crisis
+keith urban chop signature long hair
+scotland unveils independence
+basel chelsea final score swiss side beat blue second time
+review disney royal gain boost frozen
+low cost camera operates speed light
+company beat analyst expectation
+frozen movie review
+xbox thought
+grand theft auto san andreas hitting mobile month
+brady manning meet matchup great
+black friday shopping thanksgiving
+thanksgivukkah attack youtube
+serious justice talwars lawyer
+japan official low key flight
+sandy hook report find motive
+top secret document reveals nsa spy porn habit suspected terrorist
+frozen movie review kristen bell idina menzel disney latest
+phone review nokia window lumia phone cheese
+merkel spd clinch coalition deal
+kanye west kanye west shot
+france send troop central african republic violence spread
+heavy pre market movement jos bank clothier
+kanye west kim kardashian love story love story age
+stem cell center work
+jason kidd rose strong kid
+birth death star spectacular photo
+jennifer love hewitt birth
+local jump rope champ perform national parade
+kanye kim beautiful woman time
+aaron rodgers thursday
+warren buffett detroit huge potential
+vonn credit brace saving knee hope race week
+release image star birth death large cloud
+sign
+nigella lawson season air hour
+nba piston hand net straight loss
+pau gasol gif
+company update verizon nyse nokia lumia
+online georgia jury survey list slave occupation
+retailer open thanksgiving mixed review
+kim kardashian responds seth rogen spoof video
+jobless claim improve unexpectedly
+scarlett johansson win golden globe
+church psalm book sell
+microsoft device window
+claiborne suffers injury
+grateful good working
+year faith pope urge focus
+fire ant raft science
+nokia business lumia
+video basel playing chelsea win
+blackberry find early success mobile app
+update japanese airline china flight plan zone
+lakers talked pau gasol extension
+motorola moto arrives early
+seahorse stea hunter
+violence increase central african republic
+game recap late turnover cost lakers fourth straight victory
+macy parade ground big balloon
+oil chief fear vote tax rise
+putin odd couple video
+james franco seth rogen bound parody
+flyer lecavalier player tampa
+spacex rock central texas
+kim kardashian amazing yeezus tour style photo
+oldboy reviewed josh brolin joe
+nokia lumia continues window phone market
+pakistan army chief
+deal israeli group
+white paper preview snp key pledge welfare reform
+china creates air defence zone east china sea
+investment defence independent scotland
+kim kardashian step brother invited wedding
+call sony
+nigella lawson head drug
+xbox xbox week
+jason kidd shot net starter loss paul pierce fire
+brain alzheimer age child
+tom brady peyton manning historic patriot bronco game
+talwars held gui aarushi hemraj killing
+german face fit
+nasa call comet ison time capsule solar system birth
+talwars gui daughter aarushi murder cbi court
+box buy dloop boost data analytics
+bmw good energy offer green power
+sony file patent smartwig sensor hairpiece
+motorola selling unlocked moto
+market fed balance sheet
+nokia lumia tablet inch display launch report
+suspect sought death kansa mother child update
+china air defense zone
+melo lakers kobe
+study estimate swine flu death toll time higher
+desperate greek hiv benefit file
+nfl power
+killed collapse hosting opener
+disney full frozen
+nokia confirms lumia coming australia
+williams carlos york yankee
+lecavalier excited return tampa
+long beach area retailer opening thanksgiving
+scarlett johansson award winning performance ruled ineligible
+bronco patriot preview
+duel
+xbox console sale top day microsoft video
+criticizes china airspace claim vow defend japan
+nba roundup net hang rare win
+dwts winner season
+source yank cano apart
+viking defense control packer
+suspect captured mom child
+hewlett packard ceo whitman ordered defend security class action
+pope francis
+school buying child year
+girl jennifer love hewitt
+talwars life prison murdering aarushi hemraj
+kate prince william jump stage sing pop queen taylor swift
+boost central african republic
+shopping thanksgiving kill poor worker holiday
+education amid conflict car
+overweight woman body mom
+nokia lumia smartphone sale december
+aaron rodgers return green bay packer practice
+lakers fan pau gasol
+wind ground macy parade balloon nyc
+bank threaten charge saving money
+letter concussion lawsuit hockey fighting
+scotland business leader fight union
+dancing star reveals final three
+lumia surface trade
+berlusconi pull italy coalition party
+retailer brace earlier shopping season
+seth rogen james franco recreate kanye west bound
+aarushi hemraj murder talwars hurt conviction
+kardashian love franco rogen bound spoof
+dancing star win rating race
+german consumer confidence rise
+list syria talk
+killed wounded attack army base iraq
+thanksgivukkah menorah joint
+thanksgiving day shop shop
+concerned rising tension thailand
+football chelsea despite basel loss
+plan morning pill effective woman
+table turn men wearhouse buy jos bank
+putting heart place
+gasol contract extension talk
+brady manning duel
+best deal thanksgiving black friday
+tom investor buffett brings michigan small business
+detroit lion chris green bay packer aaron
+glee amber riley fight pain win dancing star
+suicide bomber kill attack army base baghdad
+greek citizen infecting hiv order government
+console war microsoft xbox sony playstation
+pope francis economics
+vitamin supplement delay progression early stage hiv
+seahawks thurmond game suspension substance abuse
+aarushi talwar family appeal court verdict
+bank start charging deposit
+football chelsea seal progress danger
+kobe bryant rich contract lakers
+rant return investment analysis
+high school march perform uma macy
+aaron rodgers chance playing thanksgiving slim green
+xbox disc issue fixed console
+thailand ministry
+psalm book fetch record nyc auction
+human bonobo congo
+sexual men woman
+frozen review
+seahorse head prey video
+contraceptive pill prevent heavy woman
+microsoft xbox user account suspended swearing
+police lostprophets singer ian watkins paedophile
+joan river defends alec baldwin msnbc launch slur
+tampa bay lightning philadelphia flyer
+christmas aid
+nokia lumia launch demand
+expensive book sell
+glee cast amber riley dancing win video
+join syrian peace talk asked
+letta senate majority cut paper
+nokia lumia video arrives
+nokia lumia launched france listed pre order
+lecavalier hit ice tampa bay
+rock singer admits child abuse
+video prince william rock taylor swift bon jovi
+currency union best interest
+plan effective woman pound photo
+status white paper
+burger king open france ready mcdonald
+france send troop head car civil war
+assad build trust attend syria peace talk
+study find ape threatened human activity forest loss
+profile general raheel sharif
+painkiller linked death
+france africa fresh troop central african
+scientist ruin cheese making skin
+islamist explosive detained moscow
+china air defence zone move dangerous
+eat michael microbe cheese
+heisman vote word white
+warning morning pill work woman pound
+nsa target porn poor fact
+familiar google hotword arrives desktop official chrome extension
+book set record auction
+fda dna testing kit
+killed iraqi suicide bombing
+fda plan woman pound
+muslim radicalisers porn habit monitored nsa
+study swine flu killed time estimated
+keith urban chop lock
+philippine typhoon aid long term recovery
+good bad knicks net
+disputed island china air defence zone move japan
+call help philippine farmer typhoon
+typhoon haiyan help
+youtube comment user
+sriracha hot sauce factory production partially
+lostprophets singer ian watkins pleads gui child sex offence
+detroit comeback
+america hard hit swine flu study find
+keith cut hair keith trend
+williams raise money prostate cancer movember
+google earth image better data fish catch
+raider week
+comet ison nov update watch comet sun
+men woman regret sex study
+taylor swift royal engagement
+local business black friday
+alec baldwin side msnbc fall pretty
+year carlos deal york yankee
+cowboy practice
+football coach indicted grand jury
+disney frozen
+###
